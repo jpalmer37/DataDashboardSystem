@@ -4,7 +4,6 @@ The Data Dashboard system is an interactive system allowing the user to select v
 
 **LOGIN:**
 Our system features a Login panel, in which the user must enter a username and password, that will be verified by our system, in order to gain access to **MAIN_DISPLAY**.
-![Login_Interface](https://user-images.githubusercontent.com/57971751/114282549-8c5e2100-9a12-11eb-9900-1ec4573eb704.png)
 
 **MAIN_DISPLAY:**
 Our Main_Display will have drop-down menus, for which the user will select:
